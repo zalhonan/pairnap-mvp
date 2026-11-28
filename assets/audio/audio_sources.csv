@@ -1,0 +1,77 @@
+file,source,author,license,source_asset,license_url
+sfx/card-open.ogg,https://freesound.org/people/f4ngy/sounds/240776/,f4ngy,CC BY 4.0,"Card Flip. Trimmed to the rustle, filtered, softened, level adjusted, mono encoding",https://creativecommons.org/licenses/by/4.0/
+sfx/card-open.m4a,https://freesound.org/people/f4ngy/sounds/240776/,f4ngy,CC BY 4.0,"Card Flip. Trimmed to the rustle, filtered, softened, level adjusted, mono encoding",https://creativecommons.org/licenses/by/4.0/
+sfx/card-close.ogg,https://freesound.org/people/f4ngy/sounds/240777/,f4ngy,CC BY 4.0,"Dealing Card. Trimmed to the paper settling, filtered, softened, level adjusted, mono encoding",https://creativecommons.org/licenses/by/4.0/
+sfx/card-close.m4a,https://freesound.org/people/f4ngy/sounds/240777/,f4ngy,CC BY 4.0,"Dealing Card. Trimmed to the paper settling, filtered, softened, level adjusted, mono encoding",https://creativecommons.org/licenses/by/4.0/
+sfx/pair-match.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,confirmation_001.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/pair-match.m4a,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,confirmation_001.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/pair-miss.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/pair-miss.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/round-start.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/round-start.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/round-win.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/round-win.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/round-fail.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/round-fail.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/miron-offer.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/miron-offer.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/miron-move.ogg,https://freesound.org/people/Breviceps/sounds/448084/,Breviceps,CC0 1.0,"Cute Kitten Meow. Trimmed, filtered, level adjusted, mono encoding",https://creativecommons.org/publicdomain/zero/1.0/
+sfx/miron-move.m4a,https://freesound.org/people/Breviceps/sounds/448084/,Breviceps,CC0 1.0,"Cute Kitten Meow. Trimmed, filtered, level adjusted, mono encoding",https://creativecommons.org/publicdomain/zero/1.0/
+sfx/miron-arrive.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/miron-arrive.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/ui-select.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,select_002.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/ui-select.m4a,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,select_002.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/ui-back.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Damped felt-tone synthesis,
+sfx/ui-back.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Damped felt-tone synthesis,
+sfx/ui-confirm.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,toggle_001.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/ui-confirm.m4a,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,toggle_001.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/ui-unavailable.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Damped felt-tone synthesis,
+sfx/ui-unavailable.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Damped felt-tone synthesis,
+sfx/tool-receipt.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,maximize_008.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/tool-receipt.m4a,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,maximize_008.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/b01.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b01.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b02.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b02.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b03.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b03.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b04.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b04.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b05.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b05.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b06.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,drop_002.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/b06.m4a,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,drop_002.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/b07.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b07.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b08.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b08.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b09.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Shaped mid-frequency discharge synthesis,
+sfx/b09.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Shaped mid-frequency discharge synthesis,
+sfx/b10.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Shaped mid-frequency discharge synthesis,
+sfx/b10.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Shaped mid-frequency discharge synthesis,
+sfx/b11.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Shaped mid-frequency discharge synthesis,
+sfx/b11.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Shaped mid-frequency discharge synthesis,
+sfx/b12.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Shaped mid-frequency discharge synthesis,
+sfx/b12.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Shaped mid-frequency discharge synthesis,
+sfx/b13.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Shaped mid-frequency discharge synthesis,
+sfx/b13.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Shaped mid-frequency discharge synthesis,
+sfx/b14.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,drop_004.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/b14.m4a,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,drop_004.ogg,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/b15.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b15.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/b16.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,confirmation_001.ogg + original synthesis,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/b16.m4a,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,confirmation_001.ogg + original synthesis,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/bookmark-fallback.ogg,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,drop_002.ogg + original synthesis,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/bookmark-fallback.m4a,https://kenney.nl/assets/interface-sounds,Kenney,CC0 1.0,drop_002.ogg + original synthesis,https://creativecommons.org/publicdomain/zero/1.0/
+sfx/all-marked.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/all-marked.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/ink-used.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/ink-used.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/shield-used.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/shield-used.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/attention-empty.ogg,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+sfx/attention-empty.m4a,Original synthesis for PairNap,PairNap (generated for this change),Original PairNap asset,Felt-tone or soft formant synthesis,
+music/music0.mp3,https://cdn.pixabay.com/download/audio/2026/07/20/audio_d054b8f4d5.mp3?filename=verclub_music-relaxing-music-571029.mp3,verclub_music,Pixabay Content License,Owner-supplied original MP3,https://pixabay.com/service/license-summary/
+music/music1.mp3,https://cdn.pixabay.com/download/audio/2026/07/30/audio_4780465765.mp3?filename=leberch-relaxing-576861.mp3,leberch,Pixabay Content License,Owner-supplied original MP3,https://pixabay.com/service/license-summary/
+music/music2.mp3,https://cdn.pixabay.com/download/audio/2026/06/04/audio_343731923c.mp3?filename=sigmamusicart-relaxing-relax-background-music-537728.mp3,sigmamusicart,Pixabay Content License,Owner-supplied original MP3,https://pixabay.com/service/license-summary/
+music/music3.mp3,https://cdn.pixabay.com/download/audio/2023/11/04/audio_9ac6ea1ce7.mp3?filename=prem_adhikary-relaxing-amp-calming-acoustic-guitar-174642.mp3,prem_adhikary,Pixabay Content License,Owner-supplied original MP3,https://pixabay.com/service/license-summary/
